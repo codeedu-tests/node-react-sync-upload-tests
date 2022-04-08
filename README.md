@@ -1,4 +1,4 @@
-# Teste para desenvolvedor React
+# Teste para desenvolvedor Node/React
 
 ## Tecnologias
 
